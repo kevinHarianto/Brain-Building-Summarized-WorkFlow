@@ -1,5 +1,6 @@
 # Brain-Building-Summarized-WorkFlow
-Aided by AI (Gemini, ChatGPT, Perplexity) for quick reformatting of my notes and for neater presentation and actioning. just send a quick message if you want the raw info
+Aided by AI (Gemini, ChatGPT, Perplexity) for quick reformatting of my notes and for neater presentation and actioning. just send a quick message if you want the raw info.
+In relation towards Brain Building from Marilyn Vos Savant and Leonore Fleischer
 
 <img width="536" height="587" alt="image" src="https://github.com/user-attachments/assets/ebea7ef8-27ac-4923-8152-e019eb7eb2b3" />
 
