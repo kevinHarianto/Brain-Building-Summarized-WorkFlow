@@ -1,0 +1,168 @@
+Comprehension Loop
+The Micro: What exact task am I doing right now? 
+The Macro: Where does this fit into the larger system/goal?
+The Connection (How): How does this specific action fit into and drive the larger picture?
+Action Loop
+
+BEFORE → DURING → AFTER → UPDATE YOUR MENTAL MODEL → BEFORE AGAIN 
+
+1. Orient — Where am I?
+
+Before doing anything:
+
+What am I trying to accomplish?
+Where am I currently in the larger process?
+What do I already know?
+What don't I understand yet?
+What assumptions am I making?
+
+2. Micro — What exactly am I doing?
+
+Define the immediate action.
+
+What is the exact task in front of me?
+3. Macro — Why am I doing it?
+
+Connect the micro-task to the larger objective.
+
+What larger problem does this task contribute to solving?
+
+4. Connection — How does it move the goal forward?
+
+This is the most important part of your original idea.
+
+Ask:
+
+How does completing this action change what I know or what I can do?
+
+Think:
+
+Action → Information → Decision → Progress
+
+5. Execute — Do the thing
+
+Now actually perform the action.
+
+But while doing it, continuously monitor:
+
+Do I actually understand what I'm seeing?
+
+If something doesn't make sense, stop and isolate the gap.
+
+Your notes call this monitoring comprehension: being aware of what you understand, what you don't, and resolving the gaps.
+
+So instead of:
+
+"This function looks weird. I'll keep going."
+
+You ask:
+
+"What specifically don't I understand about this function?"
+
+Then create a smaller question:
+
+"What does this parameter represent?"
+
+6. Verify — Did my reasoning actually hold?
+
+This is where your logical-thinking notes become important.
+
+Ask:
+
+What evidence did I actually obtain?
+What am I inferring?
+What am I merely assuming?
+Could there be another explanation?
+What would prove me wrong?
+
+Your notes explicitly recommend separating:
+
+What I directly know → what I reasonably infer → what I merely suspect → what someone else claims → what remains unknown.
+
+This is extremely useful for DFIR.
+
+For example:
+
+Fact:
+The DLL contains an XOR operation.
+
+Inference:
+The XOR operation may be involved in decrypting configuration data.
+
+Hypothesis:
+That configuration contains an attacker email address.
+
+Unknown:
+Whether this specific XOR routine produces the email address.
+
+That distinction prevents you from accidentally turning a hypothesis into a "finding."
+7. Extract — What did I actually learn?
+
+Don't just record what you did.
+
+Record the lesson.
+
+Ask:
+
+What changed in my understanding because I did this?
+8. Refine — What should I change next time?
+
+Now turn the lesson into an actionable improvement.
+
+Ask:
+
+What will I do differently because of what I learned?
+9. Transfer — Where else can I use this?
+
+This is the step that turns an isolated lesson into reusable expertise.
+
+Ask:
+
+Where else does this pattern apply?
+
+So your complete loop becomes
+I'd simplify everything into this:
+ORIENT → DEFINE → CONNECT → ACT → CHECK → VERIFY → EXTRACT → REFINE → TRANSFER
+Or, if you want something easier to remember:
+O-D-C-A-V-R-T
+1. Orient
+ Where am I?
+2. Define
+ What exactly am I doing?
+3. Connect
+ Why does it matter to the larger goal?
+4. Act
+ Do it.
+5. Verify
+ Did the evidence actually support my reasoning?
+6. Reflect
+ What did I learn?
+7. Transfer
+ How can I use this lesson elsewhere?
+Then start the loop again with your refined approach.
+.
+A practical one-minute version
+
+You could literally keep this beside you while working:
+
+BEFORE
+
+What am I doing?
+Why does it matter?
+How does it move the goal forward?
+
+DURING
+
+Do I understand what I'm seeing?
+What assumption am I making?
+What evidence do I actually have?
+
+AFTER
+
+What changed in my understanding?
+What was the key insight?
+What will I do differently next time?
+Where else can I apply this?
+
+
+
